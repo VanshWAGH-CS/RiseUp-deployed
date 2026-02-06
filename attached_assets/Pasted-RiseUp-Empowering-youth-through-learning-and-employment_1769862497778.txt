@@ -1,0 +1,31 @@
+RiseUp – Empowering youth through learning and employment  
+Many young individuals (aged 18-22) in rural and urban areas lack access to structured upskilling 
+programs and job opportunities. They often struggle to find relevant vocational training, 
+foundational skills, and career guidance. NGOs and community organizations like Lighthouse 
+Community Pune provide training and job listings but do not have a centralized digital platform to 
+connect with candidates effectively.  
+Design a user-friendly upskilling and job readiness platform(web/mobile) that  
+• Offers personalized learning recommendations based on skills, interests, and career 
+goals.  
+• Provides access to vocational and foundational training programs.  
+• Allows NGOs and employers to post job listings and connect with candidates.  
+• Supports job readiness through mock interviews and skill assessments.  
+Features -  
+• Personalized Learning Paths – Recommend courses based on interests, skill gaps, and 
+career aspirations. Cultural and regional variations in skills and interests need to be considered  
+• Vocational & Foundational Skilling Modules – Different Courses on digital literacy, 
+communication, financial literacy, and technical trades could be hosted. Suggestions from 
+external platforms could also be listed.  
+• Job Listings - NGOs and recruiters can post jobs, apprenticeships, and training 
+opportunities.  
+• Mock Interviews & Skill Tests – Practice interviews, skill-based quizzes, and performance 
+feedback.  
+• Multi-Language Support – Content and platform interface available in regional languages 
+for accessibility.  
+• Mobile-Friendly Design – Optimized for mobile use, as many users may not have access 
+to laptops.  
+Good-to-Have Features  
+• Job Recommendation based on skills and completed courses and helping candidate find 
+jobs as per location preference.  
+• Mentorship & Community Support – Connect learners with mentors, industry 
+professionals, and alumni.  
